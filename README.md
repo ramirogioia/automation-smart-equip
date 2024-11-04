@@ -1,13 +1,12 @@
-# -------------------------------
 # Ramiro Alejandro Gioia
-# Project Name: [AUTOMATION FOR SMART EQUIP]
-# -------------------------------
+# Project Name: Automation Project For Smart Equip
+
 
 ## Steps to Setup and Run
 
 1. **Clone the Repository**:
    ```bash
-   git clone [---]
+   git clone https://github.com/ramirogioia/automation-smart-equip
 
 2. **Prepare Your Local Java Environment**:
     - Install JDK (Java 8 or higher)
@@ -27,24 +26,6 @@
    mvn test
 
 
-
-1- Clone the following repository.
-git clone ---
-
-2- Prepare your local Java Environment: 
-install JDK, Maven, etc.
-
-3- Run Maven to download all the corresponding dependencies.
-mvn clean install
-
-5- Compile the project:
-mvn package
-
-6- Run all the existing test cases:
-mvn test
-
-
-# -------------------------------
 # Ramiro Alejandro Gioia
 List of Cases Developed for This Demo
 
